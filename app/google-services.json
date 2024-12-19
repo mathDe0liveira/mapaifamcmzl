@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "705060367014",
+    "project_id": "mapaifamcmzl",
+    "storage_bucket": "mapaifamcmzl.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:705060367014:android:0e9a5051facdb3daede267",
+        "android_client_info": {
+          "package_name": "com.example.mapaifamcmzl"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBB7kdQkvvkZ5RLTa8RXuBLLp2C-EqNfnQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
